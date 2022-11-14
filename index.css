@@ -63,6 +63,18 @@ body{
     box-shadow:0 3px 4px rgb(0 0 0 / 0.5);
 }
 
+.correct{
+    background-color: green;
+}
+
+.partial{
+    background-color: yellow;
+}
+
+.wrong{
+    background-color: gray;
+}
+
 .letter{
     flex:1 1 10%;
     border:solid;
